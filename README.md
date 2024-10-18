@@ -10,7 +10,7 @@ In this project, I deployed a mini honeynet in Azure, collecting log data from v
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 # Building a SOC + Honeynet in Azure (Live Traffic)
-![Cloud Honeynet / SOC](https://i.imgur.com/6T04CSq.png)
+![Cloud Honeynet / SOC](https://i.imgur.com/7EftgEP.jpeg)
 
 - Virtual Network (VNet)
 - Network Security Group (NSG)
