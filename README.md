@@ -36,6 +36,7 @@ MS SQL Authentication failures
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
+
 Start Time 2024-10-14 22:04
 Stop Time 2024-10-15 22:04
 
@@ -50,6 +51,7 @@ Stop Time 2024-10-15 22:04
 ## Metrics After Hardening / Security Controls
 
 The following table shows the metrics we measured in our hardened environment after another 24 hours:
+
 Start Time 2024-10-17 14:03
 Stop Time	2024-10-18 14:03
 
